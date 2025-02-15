@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./Styles/styles.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
 </head>
@@ -27,7 +27,7 @@
         <div id="mobile-menu">
             <ul id="mobile-menu-list">
                 <li><a href="#">Home</a></li>
-                <li><a href="./public/Films.html">Films</a></li>
+                <li><a href="Films.html">Films</a></li>
                 <li><a href="./public/Your_ticket.html">Your Tickets</a></li>
                 <li><a href="./public/Recently_watched.html">Recently Watched</a></li>
 
@@ -47,7 +47,7 @@
         <div id="menu-list-container">
             <ul id="menu-list">
                 <li><a href="#">Home</a></li>
-                <li><a href="./public/Films.html">Films</a></li>
+                <li><a href="./Films.php">Films</a></li>
                 <li><a href="./public/Your_ticket.html">Your Tickets</a></li>
                 <li><a href="./public/Recently_watched.html">Recently Watched</a></li>
             </ul>

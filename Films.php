@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="./Styles/styles.css">
 </head>
 <body>
     <nav>
         <div id="logo-container">
-            <img src="../assets/Logo.png" alt="Logo" id="logo" />
+            <img src="./assets/Logo.png" alt="Logo" id="logo" />
         </div>
 
 
@@ -20,10 +20,10 @@
 
         <div id="mobile-menu">
             <ul id="mobile-menu-list">
-                <li><a href="../index.html">Home</a></li>
-                <li><a href="#">Films</a></li>
-                <li><a href="./Your_ticket.html">Your Tickets</a></li>
-                <li><a href="./Recently_watched.html">Recently Watched</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="Films.html">Films</a></li>
+                <li><a href="./public/Your_ticket.html">Your Tickets</a></li>
+                <li><a href="./public/Recently_watched.html">Recently Watched</a></li>
 
                 <button id="login">Login</button>
 
@@ -38,12 +38,12 @@
 
         <!--Tab and desktop design starts-->
 
-        <div id="menu-list-container" style="padding-bottom: 20px;">
+        <div id="menu-list-container">
             <ul id="menu-list">
-                <li><a href="../index.html">Home</a></li>
-                <li><a href="#">Films</a></li>
-                <li><a href="./Your_ticket.html">Your Tickets</a></li>
-                <li><a href="./Recently_watched.html">Recently Watched</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="./Films.php">Films</a></li>
+                <li><a href="./public/Your_ticket.html">Your Tickets</a></li>
+                <li><a href="./public/Recently_watched.html">Recently Watched</a></li>
             </ul>
         </div>
         <div id="authentication">
